@@ -644,7 +644,7 @@
         "icon-image": "marker_11",
         "text-field": "{基礎番号}",
         "text-font": [
-          "NotoSansCJKjp-Medium"
+          "Noto Sans"
         ],
         "text-anchor": "top",
         "icon-anchor": "bottom"
@@ -666,7 +666,7 @@
         "icon-image": "marker_11",
         "text-field": "AdmPt",
         "text-font": [
-          "NotoSansCJKjp-Medium"
+          "Noto Sans"
         ],
         "text-anchor": "top",
         "icon-anchor": "bottom"
@@ -686,7 +686,7 @@
         "icon-image": "marker_11",
         "text-field": "CommPt",
         "text-font": [
-          "NotoSansCJKjp-Medium"
+          "Noto Sans"
         ],
         "text-anchor": "top",
         "icon-anchor": "bottom"
@@ -706,7 +706,7 @@
         "icon-image": "marker_11",
         "text-field": "SBAPt",
         "text-font": [
-          "NotoSansCJKjp-Medium"
+          "Noto Sans"
         ],
         "text-anchor": "top",
         "icon-anchor": "bottom"
@@ -726,7 +726,7 @@
         "icon-image": "marker_11",
         "text-field": "ElevPt",
         "text-font": [
-          "NotoSansCJKjp-Medium"
+          "Noto Sans"
         ],
         "text-anchor": "top",
         "icon-anchor": "bottom"
@@ -745,7 +745,7 @@
         "icon-image": "marker_11",
         "text-field": "{gcpClass}",
         "text-font": [
-          "NotoSansCJKjp-Medium"
+          "Noto Sans"
         ],
         "text-anchor": "top",
         "icon-anchor": "bottom"
@@ -776,7 +776,7 @@
           72
         ],
         "text-font": [
-          "NotoSansCJKjp-Medium"
+          "Noto Sans"
         ],
         "visibility": "visible"
       },
@@ -806,7 +806,7 @@
           72
         ],
         "text-font": [
-          "NotoSansCJKjp-Medium"
+          "Noto Sans"
         ],
         "visibility": "visible"
       },
@@ -835,7 +835,7 @@
           72
         ],
         "text-font": [
-          "NotoSansCJKjp-Medium"
+          "Noto Sans"
         ],
         "visibility": "visible"
       },
@@ -865,7 +865,7 @@
           72
         ],
         "text-font": [
-          "NotoSansCJKjp-Medium"
+          "Noto Sans"
         ]
       },
       "paint": {
@@ -883,7 +883,7 @@
         "icon-image": "circle_11",
         "text-field": "{alti}",
         "text-font": [
-          "NotoSansCJKjp-Medium"
+          "Noto Sans"
         ],
         "text-anchor": "top",
         "icon-anchor": "bottom"
