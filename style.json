@@ -883,7 +883,7 @@
         "icon-image": "circle_11",
         "text-field": "{alti}",
         "text-font": [
-          "sans-serif"
+          "NotoSansCJKjp-Medium"
         ],
         "text-anchor": "top",
         "icon-anchor": "bottom"
